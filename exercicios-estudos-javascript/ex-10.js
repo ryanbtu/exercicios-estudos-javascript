@@ -1,3 +1,8 @@
+/*
+10 - Faça um algoritmo que leia três notas obtidas por um aluno, 
+e imprima na tela a média das notas.
+*/
+
 let nota1 = 8.5;
 let nota2 = 6.3;
 
